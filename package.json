@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "json": "^11.0.0",
+    "vue": "^3.5.24"
+  },
+  "devDependencies": {
+    "hardhat": "^3.0.14",
+    "init": "^0.1.2"
+  }
+}
